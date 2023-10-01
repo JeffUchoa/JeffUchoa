@@ -1,5 +1,7 @@
-# 👋 Olá!
-Me chamo Jeff Uchoa e sou designer e desenvolvedor pela UFC Campus de Quixadá! Uso este perfil do Github como forma de portfolio e também documentação dos meus trabalhos desenvolvidos, obrigado por olhar meu perfil e sinta-se livre para dar uma olhada no meu trabalho!
+<img src="https://github.com/JeffUchoa/JeffUchoa/blob/main/gitback.png" />
+
+  # 👋 Olá!
+Me chamo Jeff Uchoa e sou designer e desenvolvedor formado pela UFC Campus de Quixadá. Utilizo este perfil do GitHub como um portfólio e também como documentação dos meus trabalhos desenvolvidos. Agradeço por visitar meu perfil e sinta-se à vontade para conferir meu trabalho!
 
 <a href="https://www.behance.net/jeffuchoa_" target="_blank">
   <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
@@ -13,6 +15,8 @@ Me chamo Jeff Uchoa e sou designer e desenvolvedor pela UFC Campus de Quixadá! 
 <a href="https://t.me/+5588999460023" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
+
 <!---
 GooglyEy3s/GooglyEy3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
