@@ -1,4 +1,4 @@
-<img src="https://github.com/JeffUchoa/JeffUchoa/blob/main/gitback.png" />
+<img src="https://github.com/JeffUchoa/JeffUchoa/blob/main/back2.gif" />
 
   ## 👋 Olá!
 Me chamo Jeff Uchoa, sou designer e desenvolvedor pela UFC Campus de Quixadá. Utilizo este perfil do GitHub como portfólio e documentação dos meus trabalhos desenvolvidos. Tenho experiência no campo do design, que abrange modelagem tridimensional, identidade visual, desenho, animação, edição de vídeo e outros trabalhos relacionados à área. Como desenvolvedor, tenho mais foco em front-end, com aplicações web e mobile, mas também tenho experiência em trabalhos de back-end utilizando servidores locais.
