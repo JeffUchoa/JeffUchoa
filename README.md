@@ -28,7 +28,6 @@ Agradeço por visitar meu perfil e sinta-se à vontade para conferir meu trabalh
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<img src="https://github.com/JeffUchoa/JeffUchoa/blob/main/Background_2(1).gif" />
 
 
 <!---
