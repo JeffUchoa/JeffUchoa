@@ -8,7 +8,7 @@ Me chamo Jeff Uchoa, sou designer e desenvolvedor pela UFC Campus de Quixadá. U
 Atualmente, trabalho em projetos que utilizam:
 * Aplicações Web utilizando HTML, CSS, JavaScript e React
 * Desenvolvimento de aplicações móveis com React Native
-* Express, Firebase e Front-end
+* Express, Firebase e SQL
   
 Estou totalmente aberto a novas jornadas de aprendizado, saindo da minha bolha de conhecimento que não se encaixa nos pontos acima!
 
